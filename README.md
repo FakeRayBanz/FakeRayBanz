@@ -1,4 +1,4 @@
-### Hi there 👋
+### I renamed my GitHub account, find it here: https://github.com/MattParkerDev
 
 <!--
 **FakeRayBanz/FakeRayBanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
